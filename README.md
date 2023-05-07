@@ -1,4 +1,8 @@
 # CryptoClustering
+
+DELIVERABLE - jupyter Notebook code Cryto_Clustering_code 
+  located under the Starter Code folder
+
 Instructions
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
 
