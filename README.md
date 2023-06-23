@@ -12,7 +12,7 @@ In this assigment, used knowledge of Python and unsupervised learning to predict
 * Jupyter Notebook
 * Python
 * Pandas
-* SK Learb
+* SK Learn
 
 ### Files Included
 * [Crypto Currency KMeans](Starter_Code/Crypto_Clustering_code.ipynb)
